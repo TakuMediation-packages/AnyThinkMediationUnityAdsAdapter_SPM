@@ -17,7 +17,7 @@ The Taku (AnyThink) Unity Ads mediation adapter for iOS, distributed via Swift P
    ```
    https://github.com/TakuMediation-packages/AnyThinkMediationUnityAdsAdapter_SPM
    ```
-3. Select **Exact Version** and enter the target version (e.g. `4.19.0-2.0`).
+3. Select **Exact Version** and enter the target version (e.g. `41900.2.0`).
 4. Add the `AnyThinkMediationUnityAdsAdapter` product to your app target.
 5. In your target's **Build Settings**, add `-ObjC` to **Other Linker Flags**.
 
@@ -27,7 +27,7 @@ The Taku (AnyThink) Unity Ads mediation adapter for iOS, distributed via Swift P
 dependencies: [
     .package(
         url: "https://github.com/TakuMediation-packages/AnyThinkMediationUnityAdsAdapter_SPM.git",
-        exact: "4.19.0-2.0"
+        exact: "41900.2.0"
     )
 ]
 ```
