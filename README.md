@@ -5,7 +5,7 @@ The Taku (AnyThink) Unity Ads mediation adapter for iOS, distributed via Swift P
 ## Requirements
 
 - iOS 13.0+
-- Xcode 15.0+
+- Xcode 16.0+
 - Taku (AnyThink) iOS Core SDK (`AnyThinkiOS`) 6.5.0+
 
 ## Installation
